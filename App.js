@@ -1,0 +1,20 @@
+import Main from './Main';
+import { Provider } from 'react-redux';
+import store from './Redux/store';
+import React from 'react';
+
+
+
+export default function App() {
+ 
+
+  return (
+      <Provider store={store}>
+        
+        <Main />
+        
+      </Provider>
+   
+  );
+}
+
