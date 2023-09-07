@@ -15,6 +15,8 @@ You can interact with the app using Expo. Click the link below or scan the QR co
   <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693822888/MyFolder/qr_pb5zi8.png" alt="Expo QR Code" width="200" height="200">
 </div>
 
+⚠️ Note that I am  currently working on this project 
+
 
 
 ## 💡 Available Scripts
