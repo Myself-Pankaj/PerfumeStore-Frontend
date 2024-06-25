@@ -12,8 +12,8 @@ You can interact with the app using Expo. Click the link below or scan the QR co
 ***Note Note Website may be little bit slow because of using free resource for deployment***
 ***Demo Account for Login Email: Pooja@gmail.com Password:123456***
 
-- 👉 Please note that the backend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Backend).
-- 👉 Please note that the frontend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Frontned).
+- 👉 Please note that the backend part you can find [Here](https://github.com/Myself-Pankaj/PerfumeStore-Backend).
+- 👉 Please note that the frontend part you can find [Here](https://github.com/Myself-Pankaj/PerfumeStore-Frontend).
 
 <div align="center">
   <img src="https://res.cloudinary.com/attar-shop/image/upload/v1694678487/v1.1.2_hc99xe.png" alt="Expo QR Code" width="250" height="250" />
