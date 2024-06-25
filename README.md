@@ -7,7 +7,13 @@ M-Attar Plazaa is a feature-rich Expo-powered React Native app designed to provi
 
 You can interact with the app using Expo. Click the link below or scan the QR code with your Expo app to try it out:
 
-[Open in Expo]
+[!Download Apk](https://drive.google.com/drive/folders/1SGkXyVL_rptBvn4G9FRWPV73PM1k1pbw?usp=sharing)
+
+***Note Note Website may be little bit slow because of using free resource for deployment***
+***Demo Account for Login Email: Pooja@gmail.com Password:123456***
+
+-👉 Please note that the backend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Backend).
+-👉 Please note that the frontend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Frontned).
 
 <div align="center">
   <img src="https://res.cloudinary.com/attar-shop/image/upload/v1694678487/v1.1.2_hc99xe.png" alt="Expo QR Code" width="250" height="250" />
